@@ -50,11 +50,11 @@ pairs = [
     ],
     [
         r"(.*)(sports|game|sport)(.*)",
-        ["I'm a very big fan of Cricket",]
+        ["I'm a very big fan of football",]
     ],
     [
-        r"who (.*) (Cricketer|Batsman)?",
-        ["Virat Kohli"]
+        r"who (.*) (player|footballer)?",
+        ["Lionel Messi"]
     ],
     [
         r"quit",
