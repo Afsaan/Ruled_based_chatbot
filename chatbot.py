@@ -1,5 +1,5 @@
 from nltk.chat.util import Chat, reflections
-
+from pattern import pairs
 
 print(reflections)
 
